@@ -1,2 +1,2 @@
 # myLisp
-A Lisp-like programming language built from the ground up using C.
+A minimalistic Lisp-like programming language built from the ground up using C.
